@@ -50,7 +50,7 @@ CRM = {
 }
 ```
 
-## Challenge #1 - employees of companies
+## Challenge #1 -
 
 Write some code that will return an array of companies,
 and the people who work for them.  For example:
